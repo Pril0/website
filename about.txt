@@ -1,0 +1,22 @@
+  <!-- footer -->
+    <footer>
+        <div class="contact" id="contact" >
+            <div style="text-align:center">
+              <img src="hook Nook footer.png">  
+              <h2 class="sub-title">Connect With Me</h2><br>
+                <div class="contact2i">
+                  <i class="bx bx-envelope"></i>Email: <a href="mailto:gonzalesxyrsh0412@gmail.com">gonzalesxyrsh0412@gmail.com</a><br>
+                  <i class="bx bxl-tiktok" ></i> Tiktok: Hook Nook Ph<br>
+                  <i class="bx bx-phone-call" ></i>Mobile number: +63-9123456789<br>
+              </div>
+
+              <p style="font-size: 18px; text-align: left;">
+                <a  href="home.html" class="Learn"> 
+                  <i class="bx bxs-home-heart"></i><b>Return Home</b></a></p>
+                 
+              <br><br><hr><br>
+                <p style="font-size: 12px;">Thank you for visiting my website. I hope you find these patterns and tutorials helpful and inspiring. <br>Happy crocheting!</p>
+                <p style="font-size: 12px;">2024 Crochet Website. All rights reserved.</p>
+            </div>
+        </div>
+        </footer>
