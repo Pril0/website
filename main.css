@@ -1550,13 +1550,13 @@ body {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Shadow effect */
 }
 
-.billboard h1 {
+.billboard2 h1 {
 	color: #5C2603;
     font-size: 2em; /* Large font size for the headline */
     margin: 0; /* Remove default margin */
 }
 
-.billboard p {
+.billboard2 p {
 	color: #5C2603;
     font-size: 0.9em; /* Medium font size for the description */
     margin: 20px 0; /* Margin above and below the paragraph */
