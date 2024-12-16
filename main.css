@@ -1551,13 +1551,13 @@ body {
 }
 
 .billboard2 h1 {
-	color: #5C2603;
+	color: black;
     font-size: 1.0em; /* Large font size for the headline */
     margin: 0; /* Remove default margin */
 }
 
 .billboard2 p {
-	color: #5C2603;
+	color: black;
     font-size: 0.7em; /* Medium font size for the description */
     margin: 15px 0; /* Margin above and below the paragraph */
 }
