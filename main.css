@@ -1492,3 +1492,49 @@ body {
     height: 45px;
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+.billboard {
+    background-color: #ff5733; /* Bright background color */
+    color: white; /* Text color */
+    text-align: center; /* Center text */
+    padding: 50px; /* Padding around the content */
+    margin: 20px; /* Margin around the billboard */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Shadow effect */
+}
+
+.billboard h1 {
+    font-size: 3em; /* Large font size for the headline */
+    margin: 0; /* Remove default margin */
+}
+
+.billboard p {
+    font-size: 1.5em; /* Medium font size for the description */
+    margin: 20px 0; /* Margin above and below the paragraph */
+}
+
+.cta-button {
+    display: inline-block; /* Make the link behave like a button */
+    background-color: #ffffff; /* Button background color */
+    color: #ff5733; /* Button text color */
+    padding: 15px 30px; /* Padding inside the button */
+    text-decoration: none; /* Remove underline from the link */
+    border-radius: 5px; /* Rounded corners for the button */
+    font-size: 1.2em; /* Font size for the button */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.cta-button:hover {
+    background-color: #ffcccb; /* Change background color on hover */
+}
