@@ -1520,7 +1520,7 @@ body {
 }
 
 .billboard p {
-    font-size: 1.5em; /* Medium font size for the description */
+    font-size: 1.0em; /* Medium font size for the description */
     margin: 20px 0; /* Margin above and below the paragraph */
 }
 
