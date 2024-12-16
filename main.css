@@ -1515,12 +1515,12 @@ body {
 }
 
 .billboard h1 {
-    font-size: 3em; /* Large font size for the headline */
+    font-size: 2em; /* Large font size for the headline */
     margin: 0; /* Remove default margin */
 }
 
 .billboard p {
-    font-size: 1.0em; /* Medium font size for the description */
+    font-size: 0.9em; /* Medium font size for the description */
     margin: 20px 0; /* Margin above and below the paragraph */
 }
 
